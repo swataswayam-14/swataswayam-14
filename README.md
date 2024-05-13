@@ -17,9 +17,9 @@
 ### Let's connect!
 
 - 🔍 **Explore my projects:** 
-- 📫 **Reach out to me:** LinkedIn
+- 📫 **Reach out to me:** LinkedIn (https://www.linkedin.com/in/swata-swayam-dash-051307269/)
 - 📢 **Stay updated:** Follow my open-source contributions and hackathon journeys!
-- 🌐 **Visit my website:** swataswayamdash.vercel.app
+- 🌐 **Visit my website:** (https://swataswayamdash.vercel.app/)
 
 **I'm always eager to collaborate on exciting projects and learn from the best. Feel free to send me a message!**
 

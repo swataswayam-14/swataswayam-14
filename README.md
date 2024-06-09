@@ -16,7 +16,7 @@
 
 ### Let's connect!
 
-- 🔍 **Explore my projects:** 
+- 🔍 **Explore my projects:** [github](https://github.com/swataswayam-14?tab=repositories)
 - 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/swata-swayam-dash-051307269/) 
 - 📢 **Stay updated:** Follow my open-source contributions and hackathon journeys!
 - 🌐 **Visit my website:** [portfolio](https://swataswayamdash.vercel.app) 

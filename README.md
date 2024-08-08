@@ -2,6 +2,7 @@
 
 🚀 I'm a passionate and versatile **Full Stack Web Developer** with a strong foundation in TypeScript, JavaScript, MERN stack, Next.js, AWS services, Docker, Kubernetes, PostgreSQL, Turborepo, Monorepo, Prisma, Mongoose, and Tailwind CSS. I thrive on blending creativity with technical excellence to deliver exceptional web solutions.
 
+
 💡 Crafting seamless user experiences and robust backend systems is not just a job for me; it's a driving force. I'm fueled by the challenge of transforming ideas into dynamic, cutting-edge web applications that make a mark in the digital realm.
 
 ### Here's what I bring to the table:
